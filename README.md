@@ -12,4 +12,4 @@ Caracteristicas:
 # - **Estilo moderno y atractivo:** Diseño con colores personalizados, fuentes estilizadas y una disposición agradable y funcional.
 
 Como lo pruebo?:
-Busca en la carpeta "Dist" del proyecto, encontraras un ejecutable para Windows .exe solo descargalo y has doble clic!.
+Busca en la carpeta "Dist" del proyecto, encontraras un ejecutable para Windows .exe solo descargalo y has doble click!.
