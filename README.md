@@ -11,5 +11,7 @@ Caracteristicas:
 # - **Redimensionamiento dinámico:** Los botones y la interfaz se ajustan automáticamente al tamaño de la ventana, manteniendo proporciones y diseño.
 # - **Estilo moderno y atractivo:** Diseño con colores personalizados, fuentes estilizadas y una disposición agradable y funcional.
 
+![InterfaceAppCalculadoraAlegria](calcAlegria.png)
+
 Como lo pruebo?:
 Busca en la carpeta "Dist" del proyecto, encontraras un ejecutable para Windows .exe solo descargalo y has doble click!.
